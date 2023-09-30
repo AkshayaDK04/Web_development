@@ -1,0 +1,40 @@
+body
+{
+    line-height: 1cm;
+    background-image: url('ASSETS\glib-albovsky-91toRSSBIRU-unsplash.jpg');
+}
+h1
+{
+    text-align: center;
+    color:brown;
+}
+h2
+{
+    margin-right: 250px;
+    color:indigo;
+}
+#who
+{
+    background-color: rgb(240, 194, 230);
+    border: solid rgb(5, 5, 37);
+    margin-left: 50px;
+    margin-right: 1000px;
+    border-radius: 2cqmax;
+    padding: 25px;
+}
+#info
+{
+    margin-right: 10%;
+    background-color: rgb(240, 194, 230);
+    border: solid rgb(5, 5, 37);
+    border-radius: 2cqmax;
+    padding: 25px;
+    float: right;
+}
+#native
+{
+    text-align: justify;
+    margin: 0px 1000px 0px 100px;
+    color:blue;
+    font-size: medium;
+}
